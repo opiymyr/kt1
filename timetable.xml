@@ -32,12 +32,13 @@
 
     <lessons>
         <lesson no="1" complex="c1">
-            <date>2026-02-10</date>
-            <time>10:00</time>
+            <date>2026-02-09</date>
+            <time>10:10</time>
         </lesson>
         <lesson no="2" complex="c2">
-            <date>2026-02-11</date>
-            <time>12:30</time>
+            <date>2026-02-09</date>
+            <time>11:10</time>
         </lesson>
     </lessons>
 </timeTable>
+
